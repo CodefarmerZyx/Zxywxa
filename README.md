@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @Zxywxa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 一个啥都会点的全栈工程师.
+- 🌱 有时间就会写点[博客](https://blog.mczyx.online).
+- 💞️ 很喜欢玩好玩的网站.
+- 📫 想进大厂，如果有机会务必内推我.
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=WangDanPeng&show_icons=true">
-<!---
-Zxywxa/Zxywxa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
